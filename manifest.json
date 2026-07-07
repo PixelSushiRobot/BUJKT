@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "BUJKT",
+  "version": "1.0.0",
+  "description": "Sort your Objkt bookmarks by price and collect on a BUJKT.",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://objkt.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
