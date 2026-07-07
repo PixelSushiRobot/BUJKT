@@ -10,7 +10,7 @@ If you want to collect on a BUJKT without blowing your budget, this extension he
 - Highlight collectible items and make browsing easier
 - Keeps your art hunt fast, fun, and slightly less wallet-scary
 
-> Tip: On Objkt bookmarks, keep clicking on the **Load more** button until all items are loaded so the extension can sort all loaded items. Objkt only shows a few bookmarks at a time by default.
+> Tip: On Objkt bookmarks, click the **Load more** button until the full list appears. Objkt only loads a few bookmarks at a time, and the extension can only sort the items that are visible.
 
 ## Installation
 
